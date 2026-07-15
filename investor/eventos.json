@@ -1,0 +1,85 @@
+
+{
+  "eventos": [
+    {
+      "id": 1,
+      "titulo": "¡Un dragón destruye los almacenes de la Fábrica de Varitas!",
+      "descripcion": "Un incendio provocado por un dragón ha destruido gran parte del inventario.",
+      "empresa": "FabricaDeVaritas",
+      "tipo": "negativo",
+      "cambio": -40
+    },
+    {
+      "id": 2,
+      "titulo": "Nueva moda de pociones de amor en las escuelas",
+      "descripcion": "La demanda de pociones aumenta drásticamente.",
+      "empresa": "Botica",
+      "tipo": "positivo",
+      "cambio": 25
+    },
+    {
+      "id": 3,
+      "titulo": "Descubren una nueva mina de cristales mágicos",
+      "descripcion": "Los costos de producción de artefactos mágicos disminuyen.",
+      "empresa": "MineraMagica",
+      "tipo": "positivo",
+      "cambio": 18
+    },
+    {
+      "id": 4,
+      "titulo": "Una plaga afecta los cultivos de ingredientes mágicos",
+      "descripcion": "Escasean los ingredientes para fabricar pociones.",
+      "empresa": "Botica",
+      "tipo": "negativo",
+      "cambio": -20
+    },
+    {
+      "id": 5,
+      "titulo": "El Ministerio de Magia compra miles de escobas",
+      "descripcion": "Gran contrato gubernamental impulsa las ventas.",
+      "empresa": "EscobasVoladoras",
+      "tipo": "positivo",
+      "cambio": 30
+    },
+    {
+      "id": 6,
+      "titulo": "Prohíben temporalmente los vuelos recreativos",
+      "descripcion": "Las ventas de escobas disminuyen considerablemente.",
+      "empresa": "EscobasVoladoras",
+      "tipo": "negativo",
+      "cambio": -22
+    },
+    {
+      "id": 7,
+      "titulo": "Descubren un hechizo que reemplaza las varitas tradicionales",
+      "descripcion": "Los consumidores dejan de comprar varitas nuevas.",
+      "empresa": "FabricaDeVaritas",
+      "tipo": "negativo",
+      "cambio": -35
+    },
+    {
+      "id": 8,
+      "titulo": "Campeonato Mundial de Duelos Mágicos",
+      "descripcion": "Aumenta la demanda de varitas de alta calidad.",
+      "empresa": "FabricaDeVaritas",
+      "tipo": "positivo",
+      "cambio": 28
+    },
+    {
+      "id": 9,
+      "titulo": "Festival de criaturas mágicas rompe récord de visitantes",
+      "descripcion": "El turismo mágico genera un incremento en las ventas.",
+      "empresa": "TurismoMagico",
+      "tipo": "positivo",
+      "cambio": 20
+    },
+    {
+      "id": 10,
+      "titulo": "Ataque de trolls obliga a cerrar rutas comerciales",
+      "descripcion": "El comercio se ve afectado durante varios días.",
+      "empresa": "ComercioMagico",
+      "tipo": "negativo",
+      "cambio": -18
+    }
+  ]
+}
